@@ -6,7 +6,7 @@ A simple Java Swing application that allows users to input and generate a basic 
 - Java Swing-based GUI
 - Input fields for Name, Contact, Education, Skills, Experience, etc.
 - Preview generated resume
-- Designed for learning purposes<img width="1446" height="1079" alt="Screenshot 2025-09-17 084404" src="https://github.com/user-attachments/assets/cfe37724-65fa-4165-8404-d1a508a3e97e" />
+- Designed for learning purposes
 
 
 ## 💻 Technologies Used
@@ -15,7 +15,8 @@ A simple Java Swing application that allows users to input and generate a basic 
 - Eclipse IDE
 
 ## 📷 Screenshots
-*To be added*
+<img width="1446" height="1079" alt="Screenshot 2025-09-17 084404" src="https://github.com/user-attachments/assets/873c65ec-3cb0-4e16-b39e-4a1b999b8017" />
+
 
 ## 📂 How to Run
 1. Open the project in Eclipse.
